@@ -1,52 +1,48 @@
-2; rompere({due}, uova, ciotola)
-3; aggiugere({30g}, latte intero, ciotola)
-4; aggiungere({pizzico}, sale)
-5; riscaldare(padella, fuoco)
-6; sbattere({due}, uova)
-7; aggiungere({filo}, olio, padella)
-8; versare(uova {sbattuto}, padella)
-9; girare(frittata {a metà})
-10; togliere(padella, fuoco)
-11; mettere({15 g}, lievito {di birra, fresco}, ciotola)
-12; aggiungere(acqua {minerale, tiepida})
-13; sciogliere(lievito, acqua {minerale})
-14; aggiungere({150 g}, farina {bianca})
-15; *aggiungere*({un poco}, zucchero)
-16; *aggiungere*({pizzico}, sale)
-17; aggiungere(acqua, composto)
-18; sbattere(tutto, frusta)
-19; aggiungere(lievito)
-20; gitare(composto); amalgamare({ingredienti})
+2; rompere({due}, uova, ciotola);
+3; aggiugere({30g}, latte intero, ciotola);
+4; aggiungere({pizzico}, sale);
+5; riscaldare(padella, fuoco);
+6; sbattere({due}, uova);
+7; aggiungere({filo}, olio, padella);
+8; versare(uova {sbattuto}, padella);
+9; girare(frittata {a metà});
+10; togliere(padella, fuoco);
+11; mettere({15 g}, lievito {di birra, fresco}, ciotola);
+12; aggiungere(acqua {minerale, tiepida});
+13; sciogliere(lievito, acqua {minerale});
+14; aggiungere({150 g}, farina {bianca});
+15; *aggiungere*({un poco}, zucchero);
+16; *aggiungere*({pizzico}, sale);
+17; aggiungere(acqua, composto);
+18; sbattere(tutto, frusta);
+19; aggiungere(lievito);
+20; girare(composto); amalgamare({ingredienti})
 21; lasciar riposare; coprire(foglio {domopak}, ciotola)
 22; procurarsi({15}, fiori di zucca); togliere(pistilli, *fiori di zucca*)
 23; aprire(*fiori di zucca*); eliminare(picciolo)
-24; prendere(tuorlo {d'uovo})
-25; aggiungere({100 g}, farina, tuorlo)
-26; *aggiungere*({200 g}, acqua {ghiacciata})
+24; prendere(tuorlo {d'uovo});
+25; aggiungere({100 g}, farina, tuorlo);
+26; *aggiungere*({200 g}, acqua {ghiacciata});
 27; togliere(domopak); recuperare(composto)
-28; immergere(fiori di zucca, composto)
-29; controllare(temperatura, olio)
-30; friggere(fiori di zucca)
+28; immergere(fiori di zucca, composto);
+29; controllare(temperatura, olio);
+30; friggere(fiori di zucca);
 31; scolare(*fiori di zucca*); asciugare(*fiori di zucca*, carta assorbente)
-32; aggiugere(sale {a piacere})
+32; aggiugere(sale {a piacere});
 33; prendere(fiori di zucca); immergere({fiori di zucca}, tempura)
-34; friggere(questi *fiori di zucca*)
-35; scolare(*fiori di zucca*, olio)
-36; aggiungere({pizzico}, sale)
+34; friggere(questi *fiori di zucca*);
+35; scolare(*fiori di zucca*, olio);
+36; aggiungere({pizzico}, sale);
 37; prendere({200 g}, panna {fresca}); versare(*panna*, pentola)
-38; cuocere(fuoco basso {10 min})
-39; prendere({550 g}, patate {a pasta gialla})
+38; cuocere(fuoco basso {10 min});
+39; prendere({550 g}, patate {a pasta gialla});
 40; bollire(*patate*); schiacciare(*patate*, schiacciapatate)
-41; mettere(patate {schiacciate}, padella)
-43; aggiungere(sale)
-44; impastare(prodotto {filtrato})
-45; mettere(panna {calda}, pentola)
+41; mettere(patate {schiacciate}, padella);
+43; aggiungere(sale);
+44; impastare(prodotto {filtrato});
+45; mettere(panna {calda}, pentola);
 46; aggiungere(patate {filtrate, cotte}); amalgamare({tutto})
 47; aggiungere(crème fraîche); mischiare({bene})
-48; aggiungere(noce moscata)
-49; impiattare(formine)
-50; finire(olio {extravergine})
-
-
-
-
+48; aggiungere(noce moscata);
+49; impiattare(formine);
+50; finire(olio {extravergine});
