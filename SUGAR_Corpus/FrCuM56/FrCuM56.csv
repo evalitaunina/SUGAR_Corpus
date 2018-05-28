@@ -29,7 +29,7 @@
 30; friggere(fiori di zucca);
 31; scolare(*fiori di zucca*); asciugare(*fiori di zucca*, carta assorbente)
 32; aggiugere(sale {a piacere});
-33; prendere(fiori di zucca); immergere({fiori di zucca}, tempura)
+33; prendere(fiori di zucca); immergere(*fiori di zucca*, tempura)
 34; friggere(questi *fiori di zucca*);
 35; scolare(*fiori di zucca*, olio);
 36; aggiungere({pizzico}, sale);
