@@ -13,9 +13,9 @@
 15; aggiungere(zucchero)
 16; aggiungere(sale)
 17; aggiungere(acqua)
-18; mescolare
+18; mescolare()
 19; aggiungere(lievito)
-20; mescolare
+20; mescolare()
 21; chiudere(pellicola {trasparente})
 23; togliere(parte interna)
 24; mettere({un}, tuorlo)
@@ -31,13 +31,13 @@
 35; togliere(fiori di zucca, pentola)
 36; mettere(sale)
 37; mettere({200 g}, panna)
-38; cuocere(*panna* {a fuoco basso, 10 minuti})
+38; cuocere({a fuoco basso, 10 minuti})
 39; sbucciare(patate)
 40; schiacciare(patate)
 41; mettere(patate, pentola {fuoco basso})
 42; versare(patate, ciotola); usare(setaccio)
 43; aggiungere(sale)
-44; mescolare
+44; mescolare()
 45; versare(latte)
 46; aggiungere(patate, latte)
 47; mettere(crème fraiche)

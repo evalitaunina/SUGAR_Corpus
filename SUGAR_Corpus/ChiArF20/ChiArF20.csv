@@ -1,7 +1,6 @@
 2; aprire({due}, uova)
 3; mettere({30 g}, latte intero)
 4; *mettere*({pizzico}, sale)
-5; mettere(*uova*, padella {fuoco})
 6; sbattere(uova)
 7; *mettere*({filo}, olio, padella)
 8; versare(uovo, padella)
@@ -19,7 +18,7 @@
 20; mescolare
 21; coprire(contenitore, pellicola)
 23; togliere(interno, *fiori di zucca*)
-24; aprire({un}, uovo); prendere(tuorlo); mettere(*tuorlo*, contenitore)
+24; aprire({un}, uovo); prendere(tuorlo); mettere(tuorlo, contenitore)
 25; aggiungere({100 g}, farina {00}, contenitore)
 26; aggiungere({200 g}, acqua {ghiacciata}, contenitore); mescolare
 27; riaprire(contenitore {precedente})

@@ -14,7 +14,7 @@
 15; aggiungere(zucchero)
 16; aggiungere(sale)
 17; mescolare; versare(acqua)
-18; girare 
+18; girare()
 19; aggiungere(lievito, composto)
 20; mescolare
 21; chiudere(ciotola, pellicola)
@@ -30,8 +30,8 @@
 31; scolare(fiori di zucca)
 32; cospargere(sale)
 33; porre(fiori di zucca, tempura)
-34; friggere 
-35; scolare
+34; friggere() 
+35; scolare()
 36; aggiungere(sale)
 37; aggiungere(panna)
 38; accendere(fiamma {a fuoco basso})
@@ -39,11 +39,11 @@
 40; schiacciare(patate)
 41; mettere(patate,padella)
 42; filtrare(patate, colino)
-43; salare
-44; impastare
+43; salare()
+44; impastare()
 45; versare(panna, {altra} padella)
 46; aggiungere(patate, panna)
 47; aggiungere(crème fraiche)
 48; grattare(noce moscata)
-49; prendere(*puré*, padella); mettere(*puré*,recipienti)
+49; prendere(padella); mettere(*puré*, recipienti)
 50; aggiungere({po'}, olio)

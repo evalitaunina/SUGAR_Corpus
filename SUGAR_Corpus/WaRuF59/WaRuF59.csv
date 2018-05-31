@@ -8,14 +8,14 @@
 9; rigirare(*composto*, padella)
 11; prendere({15 g}, lievito)
 12; *prendere*(acqua {minerale, tiepida}); aggiungere(*acqua*)
-13; mescolare
+13; mescolare()
 14; aggiungere({150 g}, farina)
 15; *aggiungere*({po'}, zucchero)
 16; *aggiungere*({pizzico}, sale)
 17; aggiungere({un altro poco}, acqua)
-18; mescolare
+18; mescolare()
 19; aggiungere(lievito)
-20; mescolare
+20; mescolare()
 21; coprire(pellicola {trasparente})
 22; prendere({15}, fiori di zucca); pulire(*fiori di zucca*)
 23; togliere(picciolo {interno})
@@ -32,7 +32,7 @@
 35; tirare fuori(*fiori di zucca*, olio)
 36; aggiungere({pizzico}, sale)
 37; prendere({200 g}, panna)
-38; mettere(*panna*, pentola); accendere(fuoco); scaldare(*panna* {a fuoco basso, 10 minuti})
+38; mettere(*panna*, pentola); accendere(fuoco); scaldare({a fuoco basso, 10 minuti})
 39; pelare(patate)
 40; mettere(patate, schiacciapatate)
 41; mettere(patate {schiacciate}, padella); accendere(fuoco {basso})

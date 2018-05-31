@@ -22,7 +22,7 @@
 23; togliere(semi)
 24; mettere({un}, tuorlo, terrina {piccola}); separare(*tuorlo*, albume)
 25; aggiungere({100 g}, farina)
-26; *aggiungere*({200 g}, acqua ghiacciata); mescolare 
+26; *aggiungere*({200 g}, acqua ghiacciata); mescolare() 
 27; togliere(pellicola, terrina)
 28; mettere(fiori di zucca, composto)
 29; vedere(olio {caldo})
@@ -30,7 +30,7 @@
 31; togliere(fiori di zucca, padella)
 32; mettere(sale, *fiori di zucca*)
 33; mettere(fiori di zucca, composto)
-34; friggere
+34; friggere()
 35; togliere(*fiori di zucca*, olio)
 36; mettere(sale, *fiori di zucca*)
 37; mettere({200 g}, panna, pentola)
@@ -40,7 +40,7 @@
 41; mettere(*patate*, padella {fuoco lento})
 42; setacciare(patate)
 43; aggiungere(sale)
-44; impastare
+44; impastare()
 45; mettere(panna {riscaldata}, {altra} padella)
 46; aggiungere(patate {setacciate}, *padella*)
 47; aggiungere(crema)

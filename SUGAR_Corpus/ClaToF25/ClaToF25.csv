@@ -26,7 +26,7 @@
 28; immergere(fiori di zucca, pastella)
 29; controllare(olio, pastella)
 30; prendere(fiori di zucca); mettere(*fiori di zucca*, olio)
-31; togliere(fiori di zucca, padella); mettere(*fiori di zucca*, carta assorbente)
+31; togliere(fiori di zucca {fritti}, padella); mettere(*fiori di zucca*, carta assorbente)
 32; aggiungere(sale)
 33; prendere(fiori di zucca); mettere(*fiori di zucca*, impasto)
 34; friggere(fiori di zucca)

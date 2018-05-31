@@ -12,9 +12,9 @@
 15; *aggiungere*(zucchero)
 16; *aggiungere*(sale)
 17; *aggiungere*(acqua)
-18; mescolare
+18; mescolare()
 19; aggiungere(contenuto, farina)
-20; sbattere
+20; sbattere()
 21; chiudere(recipiente, cellophane)
 22; prendere({15}, fiori di zucca)
 23; eliminare(pistilli, fiore)
@@ -40,7 +40,7 @@
 43; aggiungere(sale)
 44; impastare(*impasto* {con le mani})
 45; versare(latte, recipiente {più grande})
-46; aggiungere(impasto); schiacciare(*impasto*,cucchiaio)
+46; aggiungere(impasto); schiacciare(*impasto*, cucchiaio)
 47; aggiungere({po'}, crema)
 48; grattugiare({po'}, noce moscata)
 49; prendere(impasto); versare(*impasto*, ciotoline)

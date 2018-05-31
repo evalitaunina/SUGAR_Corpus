@@ -9,7 +9,7 @@
 10; togliere(padella, fuoco)
 11; versare({15 g}, lievito {di birra, fresco}, ciotola)
 12; aggiungere(acqua {minerale, tiepida})
-13; mescolare 
+13; mescolare() 
 14; versare({150 g}, farina, ciotola {vuota})
 15; aggiungere({po'}, zucchero)
 16; aggiungere({pizzico}, sale)

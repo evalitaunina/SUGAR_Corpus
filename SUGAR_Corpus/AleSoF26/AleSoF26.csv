@@ -8,14 +8,14 @@
 10; togliere(padella, fuoco);
 11; prendere({15 g}, lievito);
 12; aggiungere(acqua {minerale, tiepida});
-13; mescolare;
+13; mescolare();
 14; versare({150 g}, farina);
 15; versare(zucchero);
 16; versare(sale);
-17; aggiungere(acqua); mescolare
-18; mescolare;
+17; [aggiungere(acqua), mescolare]
+18; mescolare();
 19; aggiungere(lievito, farina);
-20; mescolare;
+20; mescolare();
 21; coprire(pellicola);
 23; togliere(semi, fiore di zucca);
 24; prendere(tuorlo);
@@ -40,8 +40,8 @@
 43; aggiungere(sale);
 44; impastare(patate);
 45; versare(panna, {altra} pentola);
-46; aggiungere(patate); mescolare
+46; [aggiungere(patate), mescolare]
 47; aggiungere(crema);
 48; grattugiare(noce moscata);
-49; versare(*ingredienti*, terrina);
+49; versare(terrina);
 50; aggiungere(olio {extravergine d'oliva});

@@ -27,7 +27,7 @@
 28; inserire(fiori di zucca, pastella)
 29; controllare(olio, {bollente})
 30; inserire(fiori di zucca {con pastella}, olio {bollente})
-31; tirare fuori(*fiori di zucca*, *olio*)
+31; tirare fuori(*fiori di zucca*)
 32; *mettere*({po'}, sale)
 34; friggere(*fiori di zucca*, olio {bollente})
 35; tirare fuori(*fiori di zucca*)

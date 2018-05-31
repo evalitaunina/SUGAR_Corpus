@@ -1,4 +1,4 @@
-2; aprire({due}, uova)
+(2; aprire({due}, uova)
 3; aggiungere(latte)
 4; aggiungere(sale)
 5; mettere(padella, fuoco)
@@ -15,13 +15,13 @@
 17; girare(composto); aggiungere(acqua)
 18; girare(composto {energicamente})
 19; aggiungere(lievito {di birra}, composto)
-20; mescolare
+20; mescolare()
 21; coprire(composto, pellicola)
 22; prendere(fiori di zucca)
 23; pulire(*fiori di zucca*)
 24; prendere({un}, uovo); prendere(tuorlo, *uovo*)
 25; prendere(farina); aggiungere(*farina*, composto)
-26; aggiungere(acqua {ghiacciata}); girare 
+26; aggiungere(acqua {ghiacciata}); girare() 
 27; togliere(pellicola, composto {di prima})
 28; prendere(fiori di zucca); inserire(*fiori di zucca*, pastella)
 29; vedere(olio {caldo})

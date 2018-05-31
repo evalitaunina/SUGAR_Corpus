@@ -9,10 +9,10 @@
 11; mettere({15 g}, lievito {di birra, fresco}, ciotola)
 12; aggiungere(acqua {minerale, tiepida})
 13; girare(composto)
-14; prendere(ciotola); mettere({150 g}, farina, *ciotola*)
+14; prendere(ciotola); mettere({150 g}, farina)
 15; aggiungere(zucchero, farina)
-16; *aggiungere*(sale, *farina*)
-17; girare(composto); versare(acqua {tiepida}, *composto*)
+16; *aggiungere*(sale)
+17; girare(composto); versare(acqua {tiepida})
 18; mescolare
 19; aggiungere(lievito, farina)
 20; mescolare

@@ -31,7 +31,7 @@
 32; mettere({pizzico}, sale, *fiori di zucca*)
 33; prendere(fiori di zucca); mettere(*fiori di zucca*, tempura)
 34; prendere(*fiori di zucca*, tempura); mettere(*fiori di zucca*, pentola)
-35; togliere(*fiori di zucca*, *pentola*); asciugare(*fiori di zucca*)
+35; togliere(*fiori di zucca*); asciugare(*fiori di zucca*)
 36; aggiungere({pizzico}, sale, fiori di zucca)
 37; versare({200 g}, panna, pentola)
 38; mettere(*pentola* {fuoco lento})

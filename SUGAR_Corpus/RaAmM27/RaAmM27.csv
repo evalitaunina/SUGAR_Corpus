@@ -40,7 +40,7 @@
 41; versare(*patate*, padella {a fuoco basso})
 42; setacciare(*patate*)
 43; aggiungere(sale)
-44; impastare(*ingredienti* {mani})
+44; impastare({con le mani})
 45; versare(panna, teglia)
 46; aggiungere(patate)
 47; aggiungere(crème fraiche)
