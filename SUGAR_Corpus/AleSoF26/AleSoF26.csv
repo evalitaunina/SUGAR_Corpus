@@ -1,47 +1,49 @@
-2; aprire({due}, uova);
-3; aggiungere({30 g}, latte);
-4; aggiungere(sale);
-6; sbattere(uova);
-7; versare(olio, padella);
-8; versare([uova, latte], padella);
-9; girare(omelette);
-10; togliere(padella, fuoco);
-11; prendere({15 g}, lievito);
-12; aggiungere(acqua {minerale, tiepida});
-13; mescolare();
-14; versare({150 g}, farina);
-15; versare(zucchero);
-16; versare(sale);
-17; [aggiungere(acqua), mescolare]
-18; mescolare();
-19; aggiungere(lievito, farina);
-20; mescolare();
-21; coprire(pellicola);
-23; togliere(semi, fiore di zucca);
-24; prendere(tuorlo);
-25; versare({100 g}, farina);
-26; versare(acqua {ghiacciata});
-27; togliere(pellicola, impasto);
-28; mettere(fiori di zucca, impasto);
-29; controllare(temperatura, olio);
-30; versare(fiori di zucca, olio);
-31; togliere(fiori di zucca, olio);
-32; aggiungere(sale);
-33; mettere(fiori di zucca, tempura);
-34; mettere(fiori di zucca, olio);
-35; togliere(fiori di zucca, olio);
-36; aggiungere(sale);
-37; versare({200 g}, panna, pentola);
-38; cuocere({fuoco lento, 10 minuti});
-39; pelare(patate);
-40; schiacciare(patate);
-41; cuocere(patate, pentola {fuoco lento});
-42; setacciare(patate);
-43; aggiungere(sale);
-44; impastare(patate);
-45; versare(panna, {altra} pentola);
-46; [aggiungere(patate), mescolare]
-47; aggiungere(crema);
-48; grattugiare(noce moscata);
-49; versare(terrina);
-50; aggiungere(olio {extravergine d'oliva});
+2; aprire(due, uova)
+3; aggiungere(30 g, latte, *uova*)
+4; aggiungere(sale, *[ingredienti]*)
+6; mescolare(uova)
+7; aggiungere(olio, padella)
+8; aggiungere([uova, latte], padella)
+9; girare(omelette)
+10; togliere(padella, fuoco)
+---
+11; prendere(15 g, lievito)
+12; aggiungere(acqua, *lievito*)
+13; mescolare(*[acqua, lievito]*)
+14; aggiungere(150 g, farina)
+15; aggiungere(zucchero, *farina*)
+16; aggiungere(sale, *[ingredienti]*)
+17; [aggiungere(acqua, *[ingredienti]*), mescolare(*[ingredienti]*)]
+18; mescolare(*[ingredienti]*)
+19; aggiungere(lievito, farina)
+20; mescolare(*[lievito, farina]*)
+21; coprire(*ingredienti*, pellicola)
+23; separare(semi, fiore di zucca)
+24; prendere(un, tuorlo)
+25; aggiungere(100 g, farina, *tuorlo*)
+26; aggiungere(acqua, *[ingredienti]*)
+27; scoprire(impasto)
+28; aggiungere(fiori di zucca, impasto)
+29; controllare(temperatura, olio)
+30; aggiungere(fiori di zucca, olio)
+31; separare(fiori di zucca, olio)
+32; aggiungere(sale, *fiori di zucca*)
+33; aggiungere(fiori di zucca, tempura)
+34; aggiungere(fiori di zucca, olio)
+35; separare(fiori di zucca, olio)
+36; aggiungere(sale)
+---
+37; aggiungere(200 g, panna, pentola)
+38; cuocere(*panna*, fuoco lento, 10 minuti)
+39; sbucciare(patate)
+40; schiacciare(patate)
+41; cuocere(patate, pentola, fuoco lento)
+42; passare(patate)
+43; aggiungere(sale)
+44; impastare(patate)
+45; aggiungere(panna, pentola)
+46; [aggiungere(patate, *pentola*), mescolare(*patate*)]
+47; aggiungere(crema, *[ingredienti]*)
+48; grattare(noce moscata, *[ingredienti]*)
+49; aggiungere(*[ingredienti]*, terrina)
+50; aggiungere(olio, *terrina*)
