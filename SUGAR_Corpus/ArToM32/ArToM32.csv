@@ -20,7 +20,7 @@
 20; mescolare(*[ingredienti]*)
 21; coprire(tutto, pellicola trasparente)
 22; prendere(fiori di zucca)
-23; separare(pistillo)
+23; separare(pistillo, *fiore di zucca*)
 24; [aprire(un, uovo), prendere(tuorlo)]
 25; aggiungere(farina, tuorlo)
 26; *aggiungere*(200 g, acqua, *tuorlo*)

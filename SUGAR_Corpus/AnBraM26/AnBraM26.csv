@@ -20,7 +20,7 @@
 20; mescolare(*[ingredienti]*)
 21; coprire(tutto, pellicola)
 22; prendere(15, fiori di zucca)
-23; separare(parte, fiori di zucca)
+23; separare(*parte*, fiori di zucca)
 24; prendere(tuorlo)
 25; *aggiungere*(100 g, farina, *tuorlo*)
 26; aggiungere(200 g, acqua, *[ingredienti]*)
@@ -34,6 +34,7 @@
 34; aggiungere(fiori di zucca, olio)
 35; separare(fiori di zucca, olio)
 36; aggiungere(sale, fiori di zucca)
+---
 37; aggiungere(200 g, panna, pentola)
 38; mettere(pentola, fuoco basso, 10 minuti})
 39; sbucciare(550 g, patate)
