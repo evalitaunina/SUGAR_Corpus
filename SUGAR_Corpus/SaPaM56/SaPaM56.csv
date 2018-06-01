@@ -26,7 +26,7 @@
 28; aggiungere(fiori di zucca, recipiente)
 29; controllare(olio)
 30; aggiungere(fiori di zucca, pentola)
-31; [separare(fiori di zucca, pentola), mettere(fiori di zucca, foglio di carta)]
+31; [separare(fiori di zucca, pentola), aggiungere(fiori di zucca, foglio di carta)]
 32; aggiungere(sale, *fiori di zucca*)
 33; aggiungere(fiori di zucca, pastella)
 34; aggiungere(fiori di zucca, pentola)

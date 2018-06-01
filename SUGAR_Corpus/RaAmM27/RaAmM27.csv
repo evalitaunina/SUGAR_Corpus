@@ -28,10 +28,10 @@
 28; aggiungere(fiori di zucca, composto)
 29; controllare(olio)
 30; aggiungere(fiori di zucca, olio)
-31; [separare(fiori di zucca, olio), mettere(fiori di zucca, carta)]
+31; [separare(fiori di zucca, olio), aggiungere(fiori di zucca, carta)]
 33; [prendere(impasto), aggiungere(fiori di zucca, impasto)]
 34; aggiungere(fiori di zucca*, olio)
-35; [separare(fiori di zucca, *olio*), mettere(fiori di zucca, carta)]
+35; [separare(fiori di zucca, *olio*), aggiungere(fiori di zucca, carta)]
 36; aggiungere(pizzico, sale, *fiori di zucca*)
 ---
 37; [prendere(200 g, panna), aggiungere(panna, pentolino)]
