@@ -25,7 +25,7 @@
 25; aggiungere(farina, tuorlo)
 26; *aggiungere*(200 g, acqua, *tuorlo*)
 27; mescolare(composto)
-28; aggiunere(fiori di zucca, pastella)
+28; aggiungere(fiori di zucca, pastella)
 29; controllare(olio)
 30; aggiungere(fiore di zucca, padella)
 31; separare(fiore di zucca, olio)
@@ -45,7 +45,7 @@
 45; aggiungere(panna, padella)
 46; aggiungere(patate, *padella*)
 47; aggiungere(due cucchiai, crema, *padella*)
-48; aggiungere(spruzzatina, noce moscata, *padella*)
+48; *aggiungere*(spruzzatina, noce moscata, *padella*)
 49; aggiungere(purè, ciotole)
 50; aggiungere(filo, olio, *ciotole*)
 

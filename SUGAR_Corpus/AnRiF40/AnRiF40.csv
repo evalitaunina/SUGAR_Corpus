@@ -25,7 +25,7 @@
 27; [prendere(impasto), scoprire(*impasto*)]
 28; aggiungere(fiori di zucca, pastella)
 29; controllare(olio)
-30; aggiungere(fiori di zucca)
+30; aggiungere(fiori di zucca, *olio*)
 32; aggiungere(pizzico, sale)
 33; aggiungere(fiori di zucca, pastella)
 34; aggiungere(fiori, olio)
@@ -34,7 +34,7 @@
 ---
 37; aggiungere(200 g, panna, pentolino)
 38; cuocere(fuoco basso, 10 minuti)
-39; sbucciare(550 g, patate)
+39; sbucciare(250 g, patate)
 40; passare(patate, schiacciapatate)
 41; cuocere(patate, padella, fuoco basso, 10 minuti)
 42; schiacciare(patate, colino)

@@ -13,6 +13,6 @@ impastare([ingredienti])
 separare(parte/[ingredienti], ingrediente/utensile)
 coprire(recipiente/[ingredienti], strumento)
 scoprire(recipiente/[ingredienti])
-contollare(temperatura, ingrediente)
+controllare(temperatura, ingrediente)
 cuocere([ingredienti], utensile, modalità, quantità)
 
