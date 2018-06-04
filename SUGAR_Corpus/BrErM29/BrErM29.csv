@@ -21,7 +21,7 @@
 20; mescolare(*[ingredienti]*, frusta)
 21; coprire(terrina, cellophane)
 23; separare(pistilli, fiori di zucca)
-24; [aprire(uovo), prendere(tuorlo)
+24; [aprire(uovo), separare(tuorlo, albume)]
 25; aggiungere(100 g, farina, tuorlo)
 26; [mescolare(*[ingredienti]*, frusta), aggiungere(200 g, acqua, *[ingredienti]*)]
 27; scoprire(terrina)

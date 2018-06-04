@@ -17,18 +17,18 @@
 17; aggiungere(acqua, composto)
 18; mescolare(tutto, frusta)
 19; aggiungere(lievito, *composto*)
-20; [mescolare(composto)
+20; mescolare(composto)
 21; coprire(ciotola, foglio)
-22; [prendre(15, fiori di zucca), separare(pistilli, fiori di zucca)]
+22; [prendere(15, fiori di zucca), separare(pistilli, fiori di zucca)]
 23; [aprire(fiori di zucca), separare(picciolo, *fiori di zucca*)]
-24; prendere(tuorlo)
+24; prendere(un, tuorlo)
 25; aggiungere(100 g, farina, tuorlo)
 26; *aggiungere*(200 g, acqua, *[ingredienti]*)
 27; scoprire(composto)
 28; aggiungere(fiori di zucca, composto)
 29; controllare(temperatura, olio)
 30; aggiungere(fiori di zucca, *olio*)
-31; [separare(fiori di zucca, *olio*)]
+31; [separare(fiori di zucca, *olio*), aggiungere(fiori di zucca, carta assorbente)]
 32; aggiugere(sale, *fiori di zucca*)
 33; [prendere(fiori di zucca), aggiungere(fiori di zucca, tempura)]
 34; aggiungere(fiori di zucca, *olio*)

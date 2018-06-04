@@ -4,7 +4,7 @@
 5; mettere(padella, fuoco)
 6; mescolare(uova)
 7; aggiungere(olio, padella)
-8; aggiunere([uova, latte], padella)
+8; aggiungere([uova, latte], padella)
 9; girare(frittata)
 10; togliere(padella, fuoco)
 ---
@@ -46,6 +46,6 @@
 45; aggiungere(panna, contenitore)
 46; aggiungere(patate, *contenitore*)
 47; aggiungere(crème fraiche, *contenitore*)
-48; grattare(noce moscata, *grattare*)
+48; grattare(noce moscata)
 49; aggiungere(contenuto, contenitori)
 50; aggiungere(olio, *contenitori*)

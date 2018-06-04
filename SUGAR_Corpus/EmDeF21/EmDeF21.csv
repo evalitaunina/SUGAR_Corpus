@@ -31,7 +31,7 @@
 32; aggiungere(sale, *fiori di zucca*)
 33; aggiungere(fiori di zucca, tempura)
 34; aggiungere(fiori di zucca, *olio*)
-35; separare(*fiori di zucca*, olio)
+35; separare(fiori di zucca, olio)
 36; aggiungere(sale, *fiori di zucca*)
 ---
 37; aggiungere(panna, *recipiente*)

@@ -26,7 +26,7 @@
 25; [aggiungere(100 g, farina, tuorlo), mescolare(*[ingredienti]*)]
 26; [aggiungere(200 g, acqua, lentamente), mescolare(*[ingredienti]*)]
 27; [prendere(impasto), scoprire(impasto)]
-28; aggiunere(fiori di zucca, pastella)
+28; aggiungere(fiori di zucca, pastella)
 29; controllare(olio)
 30; aggiungere(fiore di zucca, olio)
 31; separare(fiori di zucca, olio)
@@ -44,7 +44,7 @@
 42; passare(patate, *setaccio*)
 43; aggiungere(sale, *patate*)
 44; mescolare(*[ingredienti]*)
-45; aggiunere(latte, recipiente)
+45; aggiungere(latte, recipiente)
 46; aggiungere(patate, recipiente)
 47; aggiungere(crème fraiche, *recipiente*)
 48; grattare(noce moscata, *recipiente*)
