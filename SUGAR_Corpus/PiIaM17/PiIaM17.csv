@@ -41,7 +41,7 @@
 41; cuocere(patate, pentola, fuoco basso)
 42; setacciare(patate, contenitore)
 43; aggiungere(sale, *patate*)
-44; mescolare(composto)
+44; impastare(composto)
 45; aggiungere(panna, pentola)
 46; [aggiungere(composto, panna), mescolare(*[ingredienti]*)]
 47; aggiungere(crema, *[ingredienti]*)

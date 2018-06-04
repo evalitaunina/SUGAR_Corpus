@@ -4,7 +4,7 @@
 5; mettere(padella, fuoco)
 6; mescolare(composto)
 7; aggiungere(olio, padella)
-8; aggiunere(contenuto, padella)
+8; aggiungere(contenuto, padella)
 9; girare(omelette)
 10; togliere(padella, fuoco)
 ---
@@ -27,15 +27,13 @@
 28; [prendere(fiori di zucca), aggiungere(fiori di zucca, impasto)]
 29; controllare(olio)
 30; aggiungere(fiori di zucca, olio)
-31; separare(*fiori di zucca*, olio)
-32; [prendere(fiori di zucca, padella), aggiungere(fiori di zucca, vassoio)]
-33; aggiungere(sale, *fiori di zucca*)
-34; aggiungere(fiori di zucca, impasto)
-35; aggiungere(fiori di zucca, padella)
-36; separare(fiori di zucca, *padella*)
-37; aggiungere(po', sale, *fiori di zucca*)
+31; separare(fiori di zucca, olio), aggiungere(fiori di zucca, vassoio)]
+32; aggiungere(sale, *fiori di zucca*)
+33; aggiungere(fiori di zucca, impasto)
+34; aggiungere(fiori di zucca, padella)
+35; separare(fiori di zucca, *padella*)
+36; aggiungere(po', sale, *fiori di zucca*)
 ---
-38; [prendere(200 g, panna), aggiungere(panna, pentolino)]
 39; sbucciare(550 g, patate)
 40; schiacciare(patate)
 41; cuocere(patate, padella, fuoco basso)

@@ -25,7 +25,7 @@
 25; [aggiungere(100 g, farina, *tuorlo*), mescolare(farina, uovo)]
 26; aggiungere(200 g, acqua, *[ingredienti]*)
 27; scoprire(contenitore)
-28; aggiunere(fiori di zucca, pastella)
+28; aggiungere(fiori di zucca, pastella)
 29; controllare(olio)
 30; aggiungere(fiori di zucca, olio)
 31; separare(fiori di zucca, *olio*)

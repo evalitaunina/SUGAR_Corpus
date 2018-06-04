@@ -16,7 +16,7 @@
 16; aggiungere(sale, *ciotola*)
 17; [aggiungere(acqua, *ciotola*), mescolare(*[ingredienti]*)]
 18; mescolare(contenuto, ciotola)
-19; [aggiungere(lievito, ciotola)]
+19; aggiungere([acqua, lievito], ciotola)
 20; mescolare(*[ingredienti]*)
 21; coprire(ciotola)
 23; separare(*parte*, fiori di zucca)
@@ -25,7 +25,6 @@
 26; aggiungere(200 g, acqua, *ciotola*)
 27; scoprire(impasto)
 28; aggiungere(fiori di zucca, *impasto*)
-29; controllare(olio)
 30; aggiungere(fiori di zucca, olio)
 31; separare(fiori di zucca, olio)
 32; aggiungere(sale, *fiori di zucca*)
@@ -37,7 +36,7 @@
 38; aggiungere(200 g, panna, pentola)
 39; sbucciare(patate)
 40; pressare(patate)
-41; aggiungere(*patate*, padella)
+41; aggiungere(patate, padella)
 42; [separare(patate, pentola), aggiungere(patate, ciotola)]
 43; aggiungere(sale, *patate*)
 44; impastare(patate)

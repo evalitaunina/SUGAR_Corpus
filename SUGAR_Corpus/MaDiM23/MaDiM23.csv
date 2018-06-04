@@ -19,7 +19,7 @@
 20; mescolare(contenuto)
 21; coprire(ciotola, plastica per alimenti)
 23; separare(interno, fiori di zucca)
-24; aggiungere(tuorlo, ciotola)
+24; aggiungere(un, tuorlo, ciotola)
 25; [aggiungere(500 g, farina), mescolare(farina, tuorlo)]
 26; [mescolare(*[ingredienti]*), aggiungere(200 g, acqua, *[ingredienti]*)]
 27; scoprire(ciotola)

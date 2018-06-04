@@ -26,7 +26,6 @@
 26; aggiungere(200 g, acqua, *[ingredienti]*)
 27; scoprire(contenitore)
 28; aggiungere(fiori di zucca, contenitore)
-29; controllare(olio)
 30; aggiungere(fiori di zucca, *olio*)
 31; separare(fiori di zucca, olio)
 32; aggiungere(po', sale, *fiori di zucca*)
