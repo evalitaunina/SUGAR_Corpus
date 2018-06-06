@@ -14,7 +14,7 @@
 14; aggiungere(150 g, farina, *composto*)
 15; *aggiungere*(zucchero, *composto*)
 16; aggiungere(sale, *composto*)
-17; aggiungere(po', acqua, *composto*)
+17; [aggiungere(po', acqua, *composto*), mescolare(*composto*, frusta)]
 18; mescolare(*composto*, frusta)
 19; aggiungere([acqua, lievito], *composto*)
 20; mescolare(composto)
