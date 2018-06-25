@@ -35,7 +35,7 @@
 ---
 37; aggiungere(200 g, panna, pentola)
 38; mettere(*pentola*, fuoco, livello basso, 10 minuti) 
-39; pelare(500 g, patate)
+39; sbucciare(500 g, patate)
 40; schiacciare(patate)
 41; aggiungere(patate, padella, a fuoco basso)
 42; [aggiungere(patate, setaccio), schiacciare(*patate*)] 
