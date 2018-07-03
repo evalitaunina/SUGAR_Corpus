@@ -20,7 +20,7 @@
 20; mescolare(preparato, recipiente)
 21; coprire(recipiente, domopak) 
 23; separare(pistillo, fiori di zucca)
-24; [prendere(tuorlo), aggiungere(tuorlo, recipiente)
+24; [prendere(tuorlo), aggiungere(tuorlo, recipiente)]
 25; aggiungere(farina, recipiente)
 26; aggiungere(acqua, recipiente)
 27; scoprire(recipiente)

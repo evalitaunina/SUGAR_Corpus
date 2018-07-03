@@ -43,7 +43,7 @@
 43; aggiungere(sale, *patate*)
 44; mescolare(tutto)
 45; aggiungere(contenuto, padella)
-46; [aggiungere(patate, padella), mescolare(*[ingredienti]*), *padella*]
+46; [aggiungere(patate, padella), mescolare(*[ingredienti]*, *padella*)]
 47; aggiungere(crème fraîche, *padella*)
 48; grattare(noce moscata, *padella*)
 49; aggiungere(contenuto, terrine)

@@ -40,7 +40,7 @@
 40; schiacciare(patate)
 41; aggiungere(patate, padella)
 42; passare(patate, setaccio)
-43; [aggiungere(sale, *patate*), *aggiungere*(pepe, *patate*)
+43; [aggiungere(sale, *patate*), *aggiungere*(pepe, *patate*)]
 44; impastare(*[ingredienti]*)
 45; aggiungere(panna, padella)
 46; aggiungere(patate, *padella*)

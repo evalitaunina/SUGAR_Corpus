@@ -23,7 +23,7 @@
 23; separare(semi, fiori di zucca*)
 24; aggiungere(un, tuorlo, terrina)
 25; aggiungere(100 g, farina, *terrina*)
-26; *[aggiungere*(200 g, acqua, *terrina*), mescolare(*[ingredienti]*)] 
+26; [*aggiungere*(200 g, acqua, *terrina*), mescolare(*[ingredienti]*)] 
 27; scoprire(terrina)
 28; aggiungere(fiori di zucca, composto)
 29; controllare(olio)

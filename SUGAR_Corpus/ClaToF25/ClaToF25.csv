@@ -20,7 +20,7 @@
 21; coprire(contenitore, pellicola)
 22; prendere(15, fiori di zucca)
 23; separare(parte centrale, fiore)
-24; [prendere(tuorlo), aggiungere(tuorlo, ciotola)
+24; [prendere(tuorlo), aggiungere(tuorlo, ciotola)]
 25; aggiungere(100 g, farina, *ciotola*)
 26; aggiungere(200 g, acqua, *ciotola*)
 27; scoprire(*ciotola*)
