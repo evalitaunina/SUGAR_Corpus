@@ -36,7 +36,7 @@
 36; aggiungere(sale, fiori di zucca)
 ---
 37; aggiungere(200 g, panna, pentola)
-38; mettere(pentola, fuoco basso, 10 minuti})
+38; mettere(*pentola*, fuoco basso, 10 minuti)
 39; sbucciare(550 g, patate)
 40; schiacciare(patate)
 41; mettere(tutto, padella, fuoco basso)

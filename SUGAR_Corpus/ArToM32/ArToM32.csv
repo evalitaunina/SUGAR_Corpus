@@ -23,7 +23,7 @@
 23; separare(pistillo, *fiore di zucca*)
 24; [aprire(un, uovo), prendere(tuorlo)]
 25; aggiungere(farina, tuorlo)
-26; *aggiungere*(200 g, acqua, *tuorlo*)
+26; *aggiungere*(200 g, acqua, *[ingredienti]*)
 27; mescolare(composto)
 28; aggiungere(fiori di zucca, pastella)
 29; controllare(olio)
