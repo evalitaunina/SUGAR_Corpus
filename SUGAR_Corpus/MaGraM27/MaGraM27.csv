@@ -35,7 +35,7 @@
 ---
 38; aggiungere(200 g, panna, pentola)
 39; sbucciare(patate)
-40; pressare(patate)
+40; schiacciare(patate)
 41; aggiungere(patate, padella)
 42; [separare(patate, pentola), aggiungere(patate, ciotola)]
 43; aggiungere(sale, *patate*)

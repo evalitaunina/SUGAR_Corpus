@@ -22,7 +22,7 @@
 23; separare(*parte*, fiori di zucca)
 24; [prendere(un, uovo), prendere(tuorlo, *uovo*)]
 25; [prendere(farina), aggiungere(farina, composto)]
-26; [aggiungere(acqua), mescolare(*[ingredienti]*) 
+26; [aggiungere(acqua), mescolare(*[ingredienti]*)]
 27; scoprire(composto)
 28; [prendere(fiori di zucca), aggiungere(fiori di zucca, pastella)]
 29; controllare(olio)
@@ -39,7 +39,7 @@
 39; sbucciare(patate)
 40; schiacciare(patate, utensile)
 41; cuocere(patate, pentola, fuoco basso)
-42; setacciare(patate, contenitore)
+42; passare(patate, *setaccio*)
 43; aggiungere(sale, *patate*)
 44; impastare(composto)
 45; aggiungere(panna, pentola)

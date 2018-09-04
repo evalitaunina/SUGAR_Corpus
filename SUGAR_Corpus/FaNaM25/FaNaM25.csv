@@ -47,5 +47,5 @@
 46; [prendere(patate), aggiungere(patate, panna)]
 47; aggiungere(crème fraiche, patate)
 48; *aggiungere*(po', noce moscata, *[ingredienti]*)
-49; [prendere(patate), aggiungere(patate, contenitori)
+49; [prendere(patate), aggiungere(patate, contenitori)]
 50; aggiungere(po', olio, *contenitori*)

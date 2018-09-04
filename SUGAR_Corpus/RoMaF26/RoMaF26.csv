@@ -1,4 +1,4 @@
-2; rompere(due, uova, piatto)
+2; aprire(due, uova, piatto)
 3; aggiungere(30 g, latte, *uova*)
 4; aggiungere(sale, *[ingredienti]*)
 5; mettere(padella, fuoco)

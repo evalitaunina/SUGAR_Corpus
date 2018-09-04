@@ -10,7 +10,7 @@
 11; aggiungere(15 g, lievito, ciotola)
 12; aggiungere(acqua, *lievito*)
 13; girare(composto)
-14; [prendere(ciotola), aggiungere(150 g, farina, *ciotola*)
+14; [prendere(ciotola), aggiungere(150 g, farina, *ciotola*)]
 15; aggiungere(zucchero, farina)
 16; *aggiungere*(sale, *farina*)
 17; [girare(composto), aggiungere(acqua, *composto*)]

@@ -9,14 +9,14 @@
 ---
 11; aggiungere(lievito, ciotola)
 12; aggiungere(acqua, *lievito*)
-13; mischiare(*[ingredienti]*)
+13; mescolare(*[ingredienti]*)
 14; aggiungere(farina, *[ingredienti]*)
 15; aggiungere(zucchero, *[ingredienti]*)
 16; aggiungere(sale, *[ingredienti]*)
 17; [aggiungere(acqua, *[ingredienti]*), mescolare(*[ingredienti]*)]
-18; mischiare(*[ingredienti]*)
+18; mescolare(*[ingredienti]*)
 19; aggiungere(lievito, *[ingredienti]*)
-20; mischiare(*[ingredienti]*)
+20; mescolare(*[ingredienti]*)
 21; coprire(ciotola, pellicola)
 23; separare(pistilli, *fiori di zucca*)
 25; aggiungere(farina)

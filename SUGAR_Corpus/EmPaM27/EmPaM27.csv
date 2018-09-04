@@ -39,7 +39,7 @@
 38; cuocere(*panna*, fuoco basso, 10 minuti)
 39; sbucciare(patate)
 40; schiacciare(patate)
-41; [mettere(patate, padella), cuocere(*patate*, fuoco basso)
+41; [mettere(patate, padella), cuocere(*patate*, fuoco basso)]
 42; [separare(patate, padella), passare(patate)]
 43; aggiungere(sale, *patate*)
 44; impastare(patate)
