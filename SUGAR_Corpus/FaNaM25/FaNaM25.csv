@@ -12,7 +12,7 @@
 12; aggiungere(acqua, *lievito*)
 13; mescolare([lievito, acqua])
 14; [prendere(150 g, farina), aggiungere(farina, ciotola)]
-15; [prendere(po', zucchero), aggiungere(quanto basta, zucchero, *[ingredienti]*)]
+15; [prendere(un po', zucchero), aggiungere(quanto basta, zucchero, *[ingredienti]*)]
 16; *aggiungere*(pizzico, sale, *[ingredienti]*)
 17; [aggiungere(acqua, *[ingredienti]*), mescolare(contenuto, ciotola)]
 18; mescolare(contenuto, *ciotola*)
@@ -45,7 +45,7 @@
 44; mescolare(contenuto)
 45; [prendere(panna), aggiungere(panna, pentola)]
 46; [prendere(patate), aggiungere(patate, panna)]
-47; aggiungere(crème fraiche, patate)
-48; *aggiungere*(po', noce moscata, *[ingredienti]*)
+47; aggiungere(crème fraîche, patate)
+48; *aggiungere*(un po', noce moscata, *[ingredienti]*)
 49; [prendere(patate), aggiungere(patate, contenitori)]
-50; aggiungere(po', olio, *contenitori*)
+50; aggiungere(un po', olio, *contenitori*)

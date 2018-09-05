@@ -1,4 +1,4 @@
-2; aprire(due, uova)
+2; aprire(2, uova)
 3; aggiungere(30g, latte, *uova*)
 4; aggiungere(pizzico, sale, *[ingredienti]*)
 6; mescolare(uova)

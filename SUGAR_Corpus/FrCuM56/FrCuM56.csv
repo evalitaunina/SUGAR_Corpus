@@ -1,8 +1,8 @@
-2; aprire(due, uova, ciotola)
+2; aprire(2, uova, ciotola)
 3; aggiungere(30g, latte, ciotola)
 4; aggiungere(pizzico, sale, *ciotola*)
 5; mettere(padella, fuoco)
-6; mescolare(due, uova)
+6; mescolare(2, uova)
 7; aggiungere(filo, olio, padella)
 8; aggiungere(uova, padella)
 9; girare(frittata)
@@ -21,7 +21,7 @@
 21; coprire(ciotola, foglio)
 22; [prendere(15, fiori di zucca), separare(pistilli, fiori di zucca)]
 23; [aprire(fiori di zucca), separare(picciolo, *fiori di zucca*)]
-24; prendere(un, tuorlo)
+24; prendere(1, tuorlo)
 25; aggiungere(100 g, farina, tuorlo)
 26; *aggiungere*(200 g, acqua, *[ingredienti]*)
 27; scoprire(composto)

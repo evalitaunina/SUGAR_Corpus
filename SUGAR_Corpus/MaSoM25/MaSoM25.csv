@@ -1,4 +1,4 @@
-2; aprire(due, uova)
+2; aprire(2, uova)
 3; aggiungere(30 g, latte, *uovo*)
 4; aggiungere(manciata, sale, *[ingredienti]*)
 5; [prendere(pentola), mettere(pentola, fornello)]
@@ -27,7 +27,7 @@
 27; scoprire(preparato)
 28; aggiungere(fiori di zucca, pastella)
 29; controllare(olio)
-30; [prendere(un, fiore di zucca), aggiungere(fiore di zucca, pentola)]
+30; [prendere(1, fiore di zucca), aggiungere(fiore di zucca, pentola)]
 31; separare(fiori di zucca, pentola)
 32; aggiungere(sale, *fiori di zucca*)
 33; [prendere(fiori di zucca), aggiungere(fiori di zucca, ciotola)]
@@ -45,8 +45,8 @@
 44; impastare(tutto)
 45; [prendere(panna), aggiungere(panna, pentola)]
 46; [prendere(patate), aggiungere(patate, panna), mescolare(tutto)]
-47; [prendere(po', crème fraiche), aggiungere(crème fraiche, composto)]
-48; grattare(po', formaggio, composto)
-49; [prendere(composto), aggiungere(composto, due, tegami)]
+47; [prendere(un po', crème fraîche), aggiungere(crème fraîche, composto)]
+48; grattare(un po', formaggio, composto)
+49; [prendere(composto), aggiungere(composto, 2, tegami)]
 50; aggiungere(olio, *tegami*)
 

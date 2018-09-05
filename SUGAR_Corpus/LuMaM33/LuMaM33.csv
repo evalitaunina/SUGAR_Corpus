@@ -21,7 +21,7 @@
 21; coprire(ciotola, pellicola)
 22; prendere(fiori di zucca)
 23; separare(pistillo, fiori di zucca)
-24; prendere(un, tuorlo)
+24; prendere(1, tuorlo)
 25; aggiungere(farina, *tuorlo*)
 26; aggiungere(acqua, *[ingredienti]*)
 28; aggiungere(fiori di zucca, pastella)
@@ -44,7 +44,7 @@
 44; impastare(*[ingredienti]*)
 45; aggiungere(panna, padella)
 46; aggiungere(patate, panna)
-47; aggiungere(crème fraiche, *[ingredienti]*)
+47; aggiungere(crème fraîche, *[ingredienti]*)
 48; grattare(noce moscata, *[ingredienti]*)
 49; [prendere(padella), aggiungere(*[ingredienti]*, recipienti)]
-50; aggiungere(po', olio, *recipienti*)
+50; aggiungere(un po', olio, *recipienti*)

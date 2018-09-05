@@ -1,4 +1,4 @@
-2; aprire(due, uova, piatto)
+2; aprire(2, uova, piatto)
 3; aggiungere(30 g, latte, *uova*)
 4; aggiungere(sale, *[ingredienti]*)
 5; [prendere(pentola), mettere(pentola, fornello)]
@@ -44,7 +44,7 @@
 44; impastare(impasto)
 45; aggiungere(tutto, pentola)
 46; aggiungere(patate, pentola)
-47; aggiungere(crème fraiche, *pentola*)
+47; aggiungere(crème fraîche, *pentola*)
 48; aggiungere(noce moscata, *pentola*)
 49; aggiungere(tutto, pentolini)
 50; aggiungere(olio, *pentolini*)

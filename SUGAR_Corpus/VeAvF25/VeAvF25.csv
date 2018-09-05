@@ -42,7 +42,7 @@
 44; impastare(*[ingredienti]*)
 45; aggiungere(latte, *recipiente*)
 46; aggiungere(patate, latte)
-47; aggiungere(crème fraiche, *[ingredienti]*)
+47; aggiungere(crème fraîche, *[ingredienti]*)
 48; grattare(noce moscata, *[ingredienti]*)
 49; aggiungere(contenuto, contenitori)
 50; aggiungere(olio, *contenitori*)

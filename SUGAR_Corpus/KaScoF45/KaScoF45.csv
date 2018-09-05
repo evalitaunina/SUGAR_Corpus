@@ -1,4 +1,4 @@
-2; aprire(tre, uova)
+2; aprire(3, uova)
 3; aggiungere(latte, *uova*)
 4; aggiungere(sale, *[ingredienti]*)
 5; mettere(padella, fuoco)
@@ -21,7 +21,7 @@
 21; coprire(terrina, pellicola)
 22; prendere(fiori di zucca)
 23; separare(semi, fiori di zucca*)
-24; aggiungere(un, tuorlo, terrina)
+24; aggiungere(1, tuorlo, terrina)
 25; aggiungere(100 g, farina, *terrina*)
 26; [*aggiungere*(200 g, acqua, *terrina*), mescolare(*[ingredienti]*)] 
 27; scoprire(terrina)

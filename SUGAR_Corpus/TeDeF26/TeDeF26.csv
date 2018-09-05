@@ -1,4 +1,4 @@
-2; aprire(due, uova)
+2; aprire(2, uova)
 3; aggiungere(30 g, latte, *uova*)
 4; *aggiungere*(pizzico, sale, *[ingredienti]*)
 5; mettere(padella, fuoco)
@@ -12,7 +12,7 @@
 12; aggiungere(acqua, *lievito*)
 13; mescolare(*[ingredienti]*)
 14; aggiungere(150 g, farina, *[ingredienti]*)
-15; *aggiungere*(po', zucchero, *[ingredienti]*)
+15; *aggiungere*(un po', zucchero, *[ingredienti]*)
 16; *aggiungere*(pizzico, sale, *[ingredienti]*)
 17; [mescolare(*[ingredienti]*, aggiungere(poco, acqua, *[ingredienti]*)]
 18; mescolare(*[ingredienti]*)
@@ -20,7 +20,7 @@
 20; mescolare(*[ingredienti]*)
 21; coprire(ciotola, pellicola)
 22; prendere(15, fiori di zucca)
-24; [prendere(ciotola), aggiungere(un, tuorlo)]
+24; [prendere(ciotola), aggiungere(1, tuorlo)]
 25; [mescolare(*tuorlo*), aggiungere(100 g, farina, *tuorlo*)]
 26; [mescolare(*[ingredienti]*), aggiungere(200 g, acqua, *[ingredienti]*)]
 27; [prendere(ciotola), scoprire(ciotola)]
@@ -32,18 +32,18 @@
 33; aggiungere(fiori di zucca, impasto)
 34; aggiungere(fiori di zucca, padella)
 35; separare(fiori di zucca, *padella*)
-36; aggiungere(po', sale, *fiori di zucca*)
+36; aggiungere(un po', sale, *fiori di zucca*)
 ---
 39; sbucciare(550 g, patate)
 40; schiacciare(patate)
 41; cuocere(patate, padella, fuoco basso)
 42; passare(patate, colino)
-43; [aggiungere(patate, ciotola), aggiungere(po', sale, *patate*)]
+43; [aggiungere(patate, ciotola), aggiungere(un po', sale, *patate*)]
 44; impastare(*[ingredienti]*)
 45; [prendere(panna), aggiungere(panna, padella)]
 46; [prendere(patate), aggiungere(patate, pentola)]
-47; aggiungere(due cucchiaini, crème fraîche, *pentola*)
-48; grattare(po', noce moscata, *pentola*)
+47; aggiungere(2 cucchiaini, crème fraîche, *pentola*)
+48; grattare(un po', noce moscata, *pentola*)
 49; aggiungere(tutto, ciotoline)
 50; aggiungere(olio, *ciotoline*)
 

@@ -12,7 +12,7 @@
 12; aggiungere(acqua, *ciotola*)
 13; mescolare(*[ingredienti]*) 
 14; aggiungere(150 g, farina, ciotola)
-15; aggiungere(po', zucchero, *ciotola*)
+15; aggiungere(un po', zucchero, *ciotola*)
 16; aggiungere(pizzico, sale, *ciotola*)
 17; [aggiungere(acqua, composto), mescolare(*composto*)]
 18; mescolare(*composto*, energicamente)
@@ -28,7 +28,7 @@
 29; aggiungere(olio, pentola)
 30; aggiungere(fiori di zucca, pentola)
 31; separare(fiori di zucca, pentola)
-32; aggiungere(po', sale, fiori di zucca)
+32; aggiungere(un po', sale, fiori di zucca)
 33; aggiungere(fiori di zucca, tempura)
 34; aggiungere(fiori di zucca, pentola)
 35; separare(fiori di zucca, pentola)
@@ -40,11 +40,11 @@
 40; schiacciare(patate)
 41; [aggiungere(patate, padella), mettere(patate, fuoco, a fiamma bassa), schiacciare(patate)]
 42; passare(patate, colino)
-43; aggiungere(po', sale, *patate*)
+43; aggiungere(un po', sale, *patate*)
 44; impastare(patate)
 45; [aggiungere(panna, padella), mettere(padella, fuoco)]
 46; aggiungere(patate, padella)
 47; aggiungere(crema, *padella*)
-48; grattare(po', noce moscata, *padella*)
+48; grattare(un po', noce moscata, *padella*)
 49; aggiungere(contenuto, recipienti)
-50; aggiungere(po', olio, *recipienti*)
+50; aggiungere(un po', olio, *recipienti*)

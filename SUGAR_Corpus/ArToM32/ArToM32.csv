@@ -1,4 +1,4 @@
-1; prendere(due, uova)
+1; prendere(2, uova)
 2; aprire(uova)
 3; prendere(latte)
 4; aggiungere(pizzico, sale, *[ingredienti]*)
@@ -21,7 +21,7 @@
 21; coprire(tutto, pellicola trasparente)
 22; prendere(fiori di zucca)
 23; separare(pistillo, *fiore di zucca*)
-24; [aprire(un, uovo), prendere(tuorlo)]
+24; [aprire(1, uovo), prendere(tuorlo)]
 25; aggiungere(farina, tuorlo)
 26; *aggiungere*(200 g, acqua, *[ingredienti]*)
 27; mescolare(composto)
@@ -44,7 +44,7 @@
 44; impastare(*[ingredienti]*)
 45; aggiungere(panna, padella)
 46; aggiungere(patate, *padella*)
-47; aggiungere(due cucchiai, crema, *padella*)
+47; aggiungere(2 cucchiai, crema, *padella*)
 48; *aggiungere*(spruzzatina, noce moscata, *padella*)
 49; aggiungere(purè, ciotole)
 50; aggiungere(filo, olio, *ciotole*)

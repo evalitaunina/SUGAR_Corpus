@@ -1,4 +1,4 @@
-2; aprire(due, uova, ciotola)
+2; aprire(2, uova, ciotola)
 3; aggiungere(30 g, latte, ciotola)
 4; aggiungere(pizzico, sale, *ciotola*)
 5; mettere(padella, fuoco)
@@ -20,7 +20,7 @@
 20; mescolare(tutto)
 21; coprire(ciotola, pellicola)
 23; separare(*parte*, fiori di zucca)
-24; prendere(un, tuorlo)
+24; prendere(1, tuorlo)
 25; aggiungere(100 g, farina, ciotola)
 26; [aggiungere(200 g, acqua, *farina*), mescolare(*[ingredienti]*)]
 27; scoprire(ciotola)
@@ -28,7 +28,7 @@
 29; controllare(temperatura, olio)
 30; aggiungere(fiori di zucca, olio)
 31; separare(fiori di zucca, pentola)
-32; aggiungere(po', sale, fiori di zucca)
+32; aggiungere(un po', sale, fiori di zucca)
 33; [prendere(fiori di zucca), aggiungere(fiori di zucca, tempura)]
 34; aggiungere(fiori di zucca, olio)
 35; separare(fiori di zucca, pentola)

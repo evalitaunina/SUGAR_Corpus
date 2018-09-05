@@ -43,7 +43,7 @@
 44; impastare(*[ingredienti]*)
 45; aggiungere(panna, tegame)
 46; aggiungere(patate)
-47; aggiungere(crème fraiche, *patate*)
+47; aggiungere(crème fraîche, *patate*)
 48; grattare(noce moscata, *[ingredienti]*)
 49; aggiungere(*[ingredienti]*, tegamino)
 50; aggiungere(olio, *tegamino*)

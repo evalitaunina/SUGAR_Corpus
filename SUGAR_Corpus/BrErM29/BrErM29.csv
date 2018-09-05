@@ -45,7 +45,7 @@
 44; impastare(*[ingredienti]*)
 45; aggiungere(panna, padella)
 46; aggiungere(patate, *padella*)
-47; aggiungere(un po', crème fraiche, *padella*)
+47; aggiungere(un po', crème fraîche, *padella*)
 48; aggiungere(un po', noce moscata, *padella*)
 49; aggiungere(composto, pentolini)
 50; aggiungere(filo, olio, pentolini)

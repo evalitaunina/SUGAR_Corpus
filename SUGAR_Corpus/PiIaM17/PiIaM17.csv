@@ -1,4 +1,4 @@
-2; aprire(due, uova)
+2; aprire(2, uova)
 3; aggiungere(latte, *uova*)
 4; aggiungere(sale, *[ingredienti]*)
 5; mettere(padella, fuoco)
@@ -20,7 +20,7 @@
 21; coprire(composto, pellicola)
 22; prendere(fiori di zucca)
 23; separare(*parte*, fiori di zucca)
-24; [prendere(un, uovo), prendere(tuorlo, *uovo*)]
+24; [prendere(1, uovo), separare(tuorlo, *uovo*)]
 25; [prendere(farina), aggiungere(farina, composto)]
 26; [aggiungere(acqua), mescolare(*[ingredienti]*)]
 27; scoprire(composto)
@@ -46,5 +46,5 @@
 46; [aggiungere(composto, panna), mescolare(*[ingredienti]*)]
 47; aggiungere(crema, *[ingredienti]*)
 48; grattare(noce moscata, *[ingredienti]*)
-49; aggiungere(composto, due, pentolini)
+49; aggiungere(composto, 2, pentolini)
 50; aggiungere(olio, *pentolini*)

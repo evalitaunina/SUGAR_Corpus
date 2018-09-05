@@ -1,4 +1,4 @@
-2; aprire(due, uova)
+2; aprire(2, uova)
 3; aggiungere(30 g, latte, *uova*)
 4; *aggiungere*(pizzico, sale, *uova*)
 6; mescolare(uova)
@@ -12,14 +12,14 @@
 13; mescolare(miscela)
 14; aggiungere(150 g, farina, contenitore)
 15; *aggiungere*(un po', zucchero, contenitore)
-16; *aggiungere*(po', sale, *contenitore*)
+16; *aggiungere*(un po', sale, *contenitore*)
 17; mescolare(composto, acqua)
 18; mescolare(*composto*)
 19; aggiungere(preparazione, preparazione)
 20; mescolare(*preparazione*)
 21; coprire(contenitore, pellicola)
 23; separare(interno, fiori di zucca)
-24; [aprire(un, uovo), prendere(tuorlo), aggiungere(tuorlo, contenitore)]
+24; [aprire(1, uovo), prendere(tuorlo), aggiungere(tuorlo, contenitore)]
 25; aggiungere(100 g, farina, contenitore)
 26; [aggiungere(200 g, acqua, contenitore), mescolare(*[ingredienti]*)]
 27; scoprire(contenitore)
@@ -43,7 +43,7 @@
 44; impastare(composto)
 45; aggiungere(panna, pentola)
 46; aggiungere(patate, panna)
-47; aggiungere(crème fraiche, composto)
+47; aggiungere(crème fraîche, composto)
 48; grattare(noce moscata, *composto*)
 49; aggiungere(puré, vaschette)
 50; aggiungere(un po', olio, *vaschette*)

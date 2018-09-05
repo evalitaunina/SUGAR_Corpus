@@ -1,4 +1,4 @@
-1; prendere(due, uova)
+1; prendere(2, uova)
 3; aggiungere(30 g, latte, uova)
 4; aggiungere(pizzico, sale, *[ingredienti]*)
 6; mescolare(uova)
@@ -43,7 +43,7 @@
 44; impastare(*impasto*)
 45; aggiungere(latte, recipiente)
 46; [aggiungere(impasto, *recipiente*), schiacciare(impasto, cucchiaio)]
-47; aggiungere(po', crema, *impasto*)
-48; grattare(po', noce moscata, *impasto*)
+47; aggiungere(un po', crema, *impasto*)
+48; grattare(un po', noce moscata, *impasto*)
 49; [prendere(impasto), aggiungere(impasto, ciotoline)]
 50; aggiungere(olio, ciotoline)

@@ -1,4 +1,4 @@
-2; aprire(due, uova, ciotola)
+2; aprire(2, uova, ciotola)
 3; aggiungere(30 g, latte, *uova*)
 4; aggiungere(pizzico, sale, *[ingredienti]*)
 5; [prendere(padella), mettere(*padella*, fuoco)]
@@ -42,7 +42,7 @@
 44; impastare(impasto)
 45; aggiungere(panna, teglia)
 46; [aggiungere(impasto, teglia), mescolare(impasto)]
-47; aggiungere(crème fraiche, *impasto*)
+47; aggiungere(crème fraîche, *impasto*)
 48; *aggiungere*(noce moscata, *impasto*)
 49; aggiungere(impasto, formini)
 50; aggiungere(olio, *formini*)
