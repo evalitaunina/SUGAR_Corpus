@@ -7,6 +7,6 @@ For more information on the task, download the guidelines (to be updated) availa
 
 
 Important Information
-- Audio format: pcm signed 16 bit
+- Audio file format: pcm signed 16 bit
 - Evaluation python script available starting from September 10th
 - Deadline: September 12th
