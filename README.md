@@ -12,4 +12,5 @@ Important Information
 - Deadline: September 12th
 
 Reference:
+
 Di Maro, M., Origlia, A., & Cutugno, F. (2018). Overview of the EVALITA 2018 Spoken Utterances Guiding Chef's Assistant Robots (SUGAR) Task. In EVALITA@ CLiC-it.
