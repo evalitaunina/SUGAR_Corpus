@@ -15,3 +15,4 @@ Important Information
 Reference:
 
 Di Maro, M., Origlia, A., & Cutugno, F. (2018). Overview of the EVALITA 2018 Spoken Utterances Guiding Chef's Assistant Robots (SUGAR) Task. In EVALITA@ CLiC-it.
+http://ceur-ws.org/Vol-2263/paper012.pdf
