@@ -27,7 +27,7 @@
 28; [prendere(fiori di zucca), aggiungere(fiori di zucca, impasto)]
 29; controllare(olio)
 30; aggiungere(fiori di zucca, olio)
-31; separare(fiori di zucca, olio), aggiungere(fiori di zucca, vassoio)]
+31; [separare(fiori di zucca, olio), aggiungere(fiori di zucca, vassoio)]
 32; aggiungere(sale, *fiori di zucca*)
 33; aggiungere(fiori di zucca, impasto)
 34; aggiungere(fiori di zucca, padella)

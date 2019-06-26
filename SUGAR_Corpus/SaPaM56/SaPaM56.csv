@@ -25,11 +25,11 @@
 27; [prendere(recipiente), scoprire(*recipiente*)] 
 28; aggiungere(fiori di zucca, recipiente)
 29; controllare(olio)
-30; aggiungere(fiori di zucca, pentola)
-31; [separare(fiori di zucca, pentola), aggiungere(fiori di zucca, foglio di carta)]
+30; aggiungere(fiori di zucca, olio)
+31; [separare(fiori di zucca, olio), aggiungere(fiori di zucca, foglio di carta)]
 32; aggiungere(sale, *fiori di zucca*)
 33; aggiungere(fiori di zucca, pastella)
-34; aggiungere(fiori di zucca, pentola)
+34; aggiungere(fiori di zucca, olio)
 35; [separare(fiori di zucca, olio), mettere(fiori di zucca, foglio di carta)]
 36; aggiungere(sale, *fiori di zucca*)
 ---
